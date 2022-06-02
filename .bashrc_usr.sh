@@ -1,5 +1,5 @@
 # # import config file        place inside ~/.bashrc
-# . ~/.bash_config_user.sh   # OR source ~/file/path
+# . ~/.bashrc_usr.sh   # OR source ~/file/path
 
 # # show Git active branch name if present
 # parse_git_branch() {
