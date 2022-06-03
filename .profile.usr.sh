@@ -1,5 +1,5 @@
 # # import config file        place inside ~/.profile
-# . ~/.profile_usr.sh   # OR source ~/file/path
+# . ~/.profile.usr.sh   # OR source ~/file/path
 
 # Email Config
 export MAIL_USERNAME=""
