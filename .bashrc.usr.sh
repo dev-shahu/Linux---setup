@@ -26,7 +26,7 @@ alias open='xdg-open'
 alias tree='gio tree' 
 alias trash='gio trash'
 alias trash-list="gio list trash://"
-alias trash-empty='gio trash --empty'
+alias empty-trash='gio trash --empty'
 # alias open="gio open"  # similar to `xdg-open`
 alias rm='trash'
 
